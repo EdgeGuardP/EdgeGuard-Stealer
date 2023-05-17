@@ -2,15 +2,6 @@
 Edge Guard Stealer Only For Educational Purposes.
 
 
-Either You Can Watch The Video From Here : 
-https://edgeguard.business/
-
-![3](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/795623c5-0119-48d1-bb1b-44daeec8a89f)
-
-![Untitled](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/d84c6ec1-e48e-47df-a0c2-18145a854cfc)
-
-
-
 ---
 
 ## Features
@@ -29,3 +20,14 @@ https://edgeguard.business/
 
 
 ---
+
+
+Either You Can Watch The Video From Here : 
+https://edgeguard.business/
+
+![3](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/795623c5-0119-48d1-bb1b-44daeec8a89f)
+
+![Untitled](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/d84c6ec1-e48e-47df-a0c2-18145a854cfc)
+
+
+
