@@ -20,3 +20,29 @@ Features:
 ./ Steals TaskSch List.
 ./ More.
 ./ Status Cryptable With Any Crypter, The Crypter Must Support x64 Bit files.
+---
+
+## Features
+
+| Feature/OS      | Windows | Linux | MacOS |
+|-----------------|---------|-------|-------|
+| Process manager | ✔       | ✔     | ✔     |
+| Kill process    | ✔       | ✔     | ✔     |
+| Network traffic | ✔       | ✔     | ✔     |
+| File explorer   | ✔       | ✔     | ✔     |
+| File transfer   | ✔       | ✔     | ✔     |
+| File editor     | ✔       | ✔     | ✔     |
+| Delete file     | ✔       | ✔     | ✔     |
+| Code highlight  | ✔       | ✔     | ✔     |
+| Desktop monitor | ✔       | ✔     | ✔     |
+| Screenshot      | ✔       | ✔     | ✔     |
+| OS info         | ✔       | ✔     | ✔     |
+| Terminal        | ✔       | ✔     | ✔     |
+| * Shutdown      | ✔       | ✔     | ✔     |
+| * Reboot        | ✔       | ✔     | ✔     |
+| * Log off       | ✔       | ❌     | ✔     |
+| * Sleep         | ✔       | ❌     | ✔     |
+| * Hibernate     | ✔       | ❌     | ❌     |
+| * Lock screen   | ✔       | ❌     | ❌     |
+
+---
