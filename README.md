@@ -10,39 +10,22 @@ https://edgeguard.business/
 ![Untitled](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/d84c6ec1-e48e-47df-a0c2-18145a854cfc)
 
 
-Features:
-./ Private Stub Coded From Scratch [ C/Golang ]
-./ Steals Wallets [ Atomic,Exodus, MetaMask ]
-./ Steals Passwords [ Supports All Browsers ]
-./ Steals Cookies [ Chrome,Firefox ]
-./ Steals Browser History
-./ Steals Browser Downloads
-./ Steals TaskSch List.
-./ More.
-./ Status Cryptable With Any Crypter, The Crypter Must Support x64 Bit files.
+
 ---
 
 ## Features
 
-| Feature/OS      | Windows | Linux | MacOS |
-|-----------------|---------|-------|-------|
-| Process manager | ✔       | ✔     | ✔     |
-| Kill process    | ✔       | ✔     | ✔     |
-| Network traffic | ✔       | ✔     | ✔     |
-| File explorer   | ✔       | ✔     | ✔     |
-| File transfer   | ✔       | ✔     | ✔     |
-| File editor     | ✔       | ✔     | ✔     |
-| Delete file     | ✔       | ✔     | ✔     |
-| Code highlight  | ✔       | ✔     | ✔     |
-| Desktop monitor | ✔       | ✔     | ✔     |
-| Screenshot      | ✔       | ✔     | ✔     |
-| OS info         | ✔       | ✔     | ✔     |
-| Terminal        | ✔       | ✔     | ✔     |
-| * Shutdown      | ✔       | ✔     | ✔     |
-| * Reboot        | ✔       | ✔     | ✔     |
-| * Log off       | ✔       | ❌     | ✔     |
-| * Sleep         | ✔       | ❌     | ✔     |
-| * Hibernate     | ✔       | ❌     | ❌     |
-| * Lock screen   | ✔       | ❌     | ❌     |
+| Feature/OS      | Windows | 
+|-----------------|---------|
+| Private Stub Coded From Scratch [ C/Golang ] | ✔ | 
+| Steals Wallets [ Atomic,Exodus, MetaMask ]  | ✔ | 
+| Steals Passwords [ Supports All Browsers ] | ✔ | 
+| Steals Cookies [ Chrome,Firefox ]   | ✔  | 
+| Steals Browser History   | ✔ |
+| Steals Browser Downloads   | ✔ | 
+| Steals TaskSch List. | ✔ | 
+| More.  | ✔ |
+| Status Cryptable With Any Crypter, The Crypter Must Support x64 Bit files. | ✔       | ✔     | ✔     |
+
 
 ---
