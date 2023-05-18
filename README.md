@@ -3,6 +3,7 @@ Edge Guard Stealer Only For Educational Purposes. Thursday 18
 
 
 | Last Scan Results 1/40 | ✔ | Fully Undetectable For Now.  Thursday 18 May 2023
+| You Will Find New Updates On This Repo Only. | ✔ |
 ---
 
 ## Features
