@@ -72,3 +72,8 @@ files are stealed correctly.
 
 
 ---
+
+## Attention
+
+This tool is for educational purpose only.
+This Tool is Designed To Protect Your Files Against Reverse-Engineers. This Tool Shouldn't Be Used For Malicous Purposes If You're Going to Use It As Malicous, You Bear The Full Responsibility.
