@@ -58,6 +58,8 @@ Either You Can Watch The Video From Here [ For Tutorial Video Go Above Website A
 https://edgeguard.business/
 
 
+[![Watch the video](https://i.ibb.co/BNfQ1q5/template.jpg)](https://edgeguard.business/edgestealer.mp4)
+
 
 [ Edge Guard Update 2.0 ]
 ![image](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/03de0e5f-fb7e-4ef9-a3da-ade4767e3909)
