@@ -1,3 +1,9 @@
+# New-Update 2.0
+| Feature/OS      | Windows | 
+|-----------------|---------|
+| Added Stealing Mails, Supports All Mail Clients + Outlook.| ✔ | 
+
+
 # EdgeGuard-Stealer
 Edge Guard Stealer Only For Educational Purposes. Thursday 18 
 
@@ -18,6 +24,20 @@ Edge Guard Stealer Only For Educational Purposes. Thursday 18
 | Steals Browser History   | ✔ |
 | Steals Browser Downloads   | ✔ | 
 | Steals TaskSch List. | ✔ | 
+| Steals Social Network Passwords | ✔ | 
+| Steals Website Login Passwords | ✔ | 
+| Steals FTP Login Details | ✔ | 
+| Steals RDP Details | ✔ | 
+| Steals Microsoft Outlook 2003 To 2023 | ✔ | 
+| Steals WindowsMail | ✔ | 
+| Steals Windows Live Mail | ✔ |
+| Steals AOL Mail | ✔ |
+| Steals Proton Mail | ✔ |
+| Steals Gmai/Yahoo/Outlook Mails | ✔ |
+| Steals Foxmail/Thunderbird | ✔ |
+| Steals Apple Mail | ✔ |
+| Steals Wifi Pass | ✔ |
+| Steals DataBase Manager Passwords | ✔ |
 | More.  | ✔ |
 | Status Cryptable With Any Crypter, The Crypter Must Support x64 Bit files. | ✔       | ✔     | ✔     |
 
@@ -25,8 +45,27 @@ Edge Guard Stealer Only For Educational Purposes. Thursday 18
 ---
 
 
-Either You Can Watch The Video From Here : 
+## FUD
+
+| FUD RATE      | NO CRYPTER | 
+|-----------------|---------|
+| 0/40 - 1/40 Depends. | ✔ | 
+---
+
+
+
+Either You Can Watch The Video From Here [ For Tutorial Video Go Above Website And Scroll Down ] : 
 https://edgeguard.business/
+
+
+
+[ Edge Guard Update 2.0 ]
+![image](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/03de0e5f-fb7e-4ef9-a3da-ade4767e3909)
+
+![image](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/ed366766-6377-4a96-86d1-442d1d00d642)
+
+
+[ Edge Guard Update 1.0 OLD! ]
 
 ![3](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/795623c5-0119-48d1-bb1b-44daeec8a89f)
 
