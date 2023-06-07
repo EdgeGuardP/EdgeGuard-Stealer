@@ -115,7 +115,21 @@ files are stealed correctly.
 
 ---
 
+
+## OutPut Size
+
+| Size      | Info | 
+|-----------------|---------|
+| Normal | 6-7 MB ✔ | 
+| UPX/Packed --lzma | 1-2 MB ✔ | 
+---
+
+
+
 ## Attention
 
 This tool is for educational purpose only.
 This Tool is Designed To Protect Your Files Against Reverse-Engineers. This Tool Shouldn't Be Used For Malicous Purposes If You're Going to Use It As Malicous, You Bear The Full Responsibility.
+
+
+
