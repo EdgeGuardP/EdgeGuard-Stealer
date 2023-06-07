@@ -123,6 +123,7 @@ files are stealed correctly.
 | Normal | 6-7 MB ✔ | 
 | UPX/Packed --lzma | 1-2 MB ✔ | 
 ---
+!!! Use UPX Packer To Lower Size Of The Executable !!!
 
 
 
