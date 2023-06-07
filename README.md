@@ -1,4 +1,4 @@
-# New-Update 2.0
+# New-Update 2.0 6/June/2023
 | Feature/OS      | Windows | 
 |-----------------|---------|
 | Added Stealing Mails, Supports All Mail Clients + Outlook.| ✔ | 
