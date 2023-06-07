@@ -33,7 +33,7 @@ Edge Guard Stealer Only For Educational Purposes. Thursday 18
 | Steals Windows Live Mail | ✔ |
 | Steals AOL Mail | ✔ |
 | Steals Proton Mail | ✔ |
-| Steals Gmai/Yahoo/Outlook Mails | ✔ |
+| Steals Gmail/Yahoo/Outlook Mails | ✔ |
 | Steals Foxmail/Thunderbird | ✔ |
 | Steals Apple Mail | ✔ |
 | Steals Wifi Pass | ✔ |
