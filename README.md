@@ -19,6 +19,7 @@ Edge Guard Stealer Only For Educational Purposes. Thursday 18
 | Feature/OS      | Windows | 
 |-----------------|---------|
 | Private Stub Coded From Scratch [ C/Golang ] | ✔ | 
+| Steals Screenshot Of Desktop  | ✔ | 
 | Steals Wallets [ Atomic,Exodus, MetaMask ]  | ✔ | 
 | Steals Passwords [ Supports All Browsers ] | ✔ | 
 | Steals Cookies [ Chrome,Firefox ]   | ✔  | 
