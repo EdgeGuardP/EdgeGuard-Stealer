@@ -1,8 +1,10 @@
-# New-Update 2.0 6/June/2023
+# New-Update 3.0 June/17/2023
 | Feature/OS      | Windows | 
 |-----------------|---------|
 | Added Stealing Mails, Supports All Mail Clients + Outlook.| ✔ | 
 | All CMDS in runtime is hidden now, totally silent and quiet. CMD/Window Hided.| ✔ | 
+| Stealing Telegram Data | ✔ | 
+| Stealing All .TXT Files On The PC | ✔ | 
 
 
 # EdgeGuard-Stealer
@@ -61,6 +63,11 @@ https://edgeguard.business/
 
 
 [![Watch the video](https://i.ibb.co/BNfQ1q5/template.jpg)](https://edgeguard.business/edgestealer.mp4)
+
+
+[ Edge Guard Update 3.0 ]
+![Untitled](https://github.com/EdgeGuardP/EdgeGuard-Stealer/assets/127977328/2ae733ae-02e9-4dc7-9672-cd9457172d0d)
+
 
 
 [ Edge Guard Update 2.0 ]
